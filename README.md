@@ -6,7 +6,7 @@
 
 This is a Semester Project which aim is to employ a Deep Learning model in order to detect Flood Events from Satellite Images
 
-Description
+<em><b><i>Description</i></b></em>
 
 Dataset's Name: SEN12-FLOOD : A SAR and Multispectral Dataset for Flood Detection </br>
 This dataset is composed of co-registered optical and SAR images time series for the detection of flood events.
