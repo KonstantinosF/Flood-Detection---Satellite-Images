@@ -1,5 +1,5 @@
 # Flood-Detection---Satellite Images
-<b><em><i>MSc (Master of Science) in Data Science - NCSR "Demokritos" & UoP</i></em></b>
+<b><em><i>MSc (Master of Science) in Data Science - NCSR "Demokritos" & UoP</i></em></b> </br>
 <b><em><i>Team Members </i></em></b>
   1.  Konstantinos (Kostis) Nikolareas
   2.  Konstantinos (Kostas) Fokeas
