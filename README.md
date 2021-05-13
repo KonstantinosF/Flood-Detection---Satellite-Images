@@ -12,14 +12,17 @@ Dataset's Name: SEN12-FLOOD : A SAR and Multispectral Dataset for Flood Detectio
 This dataset is composed of co-registered optical and SAR images time series for the detection of flood events.
 
 Time Period: December 2019 up to May 2019
+
 Study Areas: African, Iranian, Australian cities
 
 
 <b> Description of the Dataset <b>
   <em> Optical Satellite Images </em>
+  Sentinel 2
   
   
   <em> Radar Images </em>
+  Sentinel 1
   
 
 <b><i>Literature:</i></b>
