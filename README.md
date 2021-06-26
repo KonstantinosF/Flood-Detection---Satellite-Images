@@ -58,7 +58,7 @@ Specifications of the Sentinel-1 satellites:
 * 3.9 m × 2.6 m × 2.5 m (12.8 ft × 8.5 ft × 8.2 ft) dimensions
 
 
-<b><i>Literature:</i></b>
+## Literature
 <ol>
   <li>Flood Detection in Time Series of Optical and SAR Images, C. Rambour,N. Audebert,E. Koeniguer,B. Le Saux,  and M. Datcu, ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2020, 1343--1346</li>
 
