@@ -17,6 +17,17 @@ Study Areas: African, Iranian, Australian cities
 
 
 # Description of the Dataset 
+## General 
+The observed areas correspond to 337 locations (cities and their surroundings ) in West and SouthEast Africa, Middle-East, and Australia where a flood event occurred during the considered period. The period of acquisition goes from December 2018 to May 2019.
+For each location, the following data are provided:
+
+* Time series of Sentinel-2 multispectral images. These images are composed of 12 bands,
+at 10m ground-sampling distance and are provided with Level 2A atmospheric correction.
+* Time series of Sentinel-1 Synthetic Aperture Radar (SAR) images. The images are provided
+with radiometric calibration and range doppler terrain correction based on the SRTM digital
+elevation model. For one acquisition, two raster images are available corresponding to the
+polarimetry channels VV and VH.
+* Time series of binary labels for each image / date: flood or no flood.
 ## Sentinel 2
 ![Sentinel 2 Specifications](/images/sentinel_2.png)
 
