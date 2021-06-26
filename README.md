@@ -26,10 +26,11 @@ Study Areas: African, Iranian, Australian cities
   
 
 <b><i>Literature:</i></b>
+<ol>
+<i>Flood Detection in Time Series of Optical and SAR Images, C. Rambour,N. Audebert,E. Koeniguer,B. Le Saux,  and M. Datcu, ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2020, 1343--1346</i>
 
-[1] Flood Detection in Time Series of Optical and SAR Images, C. Rambour,N. Audebert,E. Koeniguer,B. Le Saux,  and M. Datcu, ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2020, 1343--1346
-
-[2] The Multimedia Satellite Task at MediaEval2019, Bischke, B., Helber, P., Schulze, C., Srinivasan, V., Dengel, A.,Borth, D., 2019, In Proc. of the MediaEval 2019 Workshop
+<i>The Multimedia Satellite Task at MediaEval2019, Bischke, B., Helber, P., Schulze, C., Srinivasan, V., Dengel, A.,Borth, D., 2019, In Proc. of the MediaEval 2019 Workshop</i>
+</ol>
 
 <b><i>Links:</b></i>
 
