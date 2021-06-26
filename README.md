@@ -18,7 +18,7 @@ Study Areas: African, Iranian, Australian cities
 
 # Description of the Dataset 
 ![GitHub Logo](/images/sentinel_2.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://en.wikipedia.org/wiki/Sentinel-2)
   
 
 <b><i>Literature:</i></b>
