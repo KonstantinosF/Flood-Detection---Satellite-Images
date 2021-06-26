@@ -16,13 +16,9 @@ Time Period: December 2019 up to May 2019
 Study Areas: African, Iranian, Australian cities
 
 
-<b> Description of the Dataset <b>
-  <em> Optical Satellite Images </em>
-  Sentinel 2
-  
-  
-  <em> Radar Images </em>
-  Sentinel 1
+# Description of the Dataset 
+![GitHub Logo](/images/sentinel_2.png)
+Format: ![Alt Text](url)
   
 
 <b><i>Literature:</i></b>
@@ -34,6 +30,6 @@ Study Areas: African, Iranian, Australian cities
 
 <b><i>Links:</b></i>
 
-[1] http://registry.mlhub.earth/10.21227/w6xz-s898/?fbclid=IwAR2SLWlo24EK2rvBVlpJlXXn9A9jhvszTeID9iHXDbZxbxVM1Ak8uSGbkBM
+[1] [http://registry.mlhub.earth/10.21227/w6xz-s898/?fbclid=IwAR2SLWlo24EK2rvBVlpJlXXn9A9jhvszTeID9iHXDbZxbxVM1Ak8uSGbkBM]
 
-[2] https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-flood-detection
+[2] [https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-flood-detection]
