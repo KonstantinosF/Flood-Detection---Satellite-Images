@@ -36,8 +36,27 @@ polarimetry channels VV and VH.
 
 ## Sentinel 1
 
+### Instruments
+Sentinel-1 spacecraft are designed to carry the following instruments:
 
+* A single C-band synthetic-aperture radar (C-SAR) with its electronics. This instrument provides 1 dB radiometric accuracy with a central frequency at 5.405 GHz.[10] The data collected in C-SAR was made to be continuous after the termination of a previous mission (Envisat mission).
+* An SDRAM-based Data Storage and Handling Assembly (DSHA), with an active data storage capacity of about 1,443 Gbit (168 GiB), receiving data streams from SAR-SES over two independent links gathering SAR_H and SAR_V polarization, with a variable data rate up to 640 Mbit/s on each link, and providing 520 Mbit/s X-band fixed-user data-downlink capability over two independent channels towards ground.
   
+
+### Characteristics
+Specifications of the Sentinel-1 satellites:
+
+* 7 year lifetime (12 years for consumables)
+* Launcher: Soyuz
+* Near-polar (98.18°) Sun-synchronous orbit
+* 693 km (431 mi) altitude
+* 12-day repeat cycle
+* 175 revolutions per cycle
+* 98.6 minute orbital period
+* 3-axis altitude stabilization
+* 2,300 kg (5,100 lb) launch mass
+* 3.9 m × 2.6 m × 2.5 m (12.8 ft × 8.5 ft × 8.2 ft) dimensions
+
 
 <b><i>Literature:</i></b>
 <ol>
