@@ -87,15 +87,19 @@ In order to count the number of files or subfolders use the next bash shell comm
 ## Architecure 
 ![Model Summary](/images/CNN_model.png)
 
-* the sheme of the model 
+## Pre processed datasets
+* Train dataset size = 1343 samples
+* Validation dataset size =  336 samples
+* Test dataset size =  268
 
-Figure
+### the ratio of classes
+The number of images in the train dataset containing flooded areas is 343
 
-Train dataset size - Validation size
-* Train on 1343 samples, validate on 336 samples
+While the number of images clean from floods is 1336
 
-Test size
-* The number of testing samples is = 268
+The number of images in the test dataset containing flooded areas is 106
+
+While the number of images clean from floods is 162
 
 
 ### Model Summary
@@ -111,7 +115,6 @@ VGG Net is the name of a pre-trained convolutional neural network (CNN) invented
 ### VGG Architecture
 ![VGG Net](/images/VGG_structure.jpeg)
 
-### Model Summary 
 
 ### Evaluation
 ![Model Summary](/images/VGG_evaluation_1.png)
