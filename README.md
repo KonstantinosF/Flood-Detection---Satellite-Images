@@ -69,6 +69,9 @@ The name of the folder indicates the different locations with the prefix "source
 
 ![Images folder 1](/images/Images_1.png)
 
+The next image demonstrates the contents of one of this folders. As we can see the image is splitted into 13 spectral bands. In the following steps we will have to stack those bands into a single multispectral image.
+
+![Images folder 1](/images/Images_2.png)
 
 
 
