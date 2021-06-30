@@ -83,7 +83,8 @@ In order to count the number of files or subfolders use the next bash shell comm
 <em><i> $ ls /etc | wc -l </em></i>
 
 
-# Modelling
+# Deap Learning Modelling
+## Architecure 
 * We used Keras
 
 * the sheme of the model 
@@ -97,7 +98,15 @@ Validation size
 Test size
 
 
+![Model Summary](/images/Images_2model_summary.png)
 
+### Evaluation
+
+
+### Feature extraction with VGG ImageNet
+VGG Net is the name of a pre-trained convolutional neural network (CNN) invented by Simonyan and Zisserman from Visual Geometry Group (VGG) at University of Oxford in 2014. VGG Net has learned to extract the features (feature extractor) that can distinguish the objects and is used to classify unseen objects. VGG was invented with the purpose of enhancing classification accuracy by increasing the depth of the CNNs. VGG 16 and VGG 19, having 16 and 19 weight layers, respectively, have been used for object recognition. VGG Net takes input of 224×224 RGB images and passes them through a stack of convolutional layers with the fixed filter size of 3×3 and the stride of 1. There are five max pooling filters embedded between convolutional layers in order to down-sample the input representation (image, hidden-layer output matrix, etc.). The stack of convolutional layers are followed by 3 fully connected layers, having 4096, 4096 and 1000 channels, respectively. The last layer is a soft-max layer. Below figure shows VGG network structure.
+
+![VGG Net](/images/VGG_structure.jpeg)
 
 ## Literature
 <ol>
@@ -108,6 +117,10 @@ Test size
 
 <b><i>Links:</b></i>
 
-[1] [http://registry.mlhub.earth/10.21227/w6xz-s898/?fbclid=IwAR2SLWlo24EK2rvBVlpJlXXn9A9jhvszTeID9iHXDbZxbxVM1Ak8uSGbkBM]
+* [http://registry.mlhub.earth/10.21227/w6xz-s898/?fbclid=IwAR2SLWlo24EK2rvBVlpJlXXn9A9jhvszTeID9iHXDbZxbxVM1Ak8uSGbkBM]
 
-[2] [https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-flood-detection]
+* [https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-flood-detection]
+
+* [https://keras.io/]
+
+* [https://en.everybodywiki.com/VGG_Net]
