@@ -57,6 +57,13 @@ Specifications of the Sentinel-1 satellites:
 * 2,300 kg (5,100 lb) launch mass
 * 3.9 m × 2.6 m × 2.5 m (12.8 ft × 8.5 ft × 8.2 ft) dimensions
 
+# How the Initial Dataset is Organized
+### Sentinel 2
+The dataset from Sentinel 2 satellite is splitted into 2 main folders, the one with the actual images and another one with the label.
+The image below illustrates how these two folders look like on a local machine
+
+![Sentinel 2 Specifications](/images/Images_Labels.png)
+
 
 ## Literature
 <ol>
