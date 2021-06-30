@@ -85,7 +85,7 @@ In order to count the number of files or subfolders use the next bash shell comm
 
 # Deap Learning Modelling
 ## Architecure 
-* We used Keras
+![Model Summary](/images/CNN_model.png)
 
 * the sheme of the model 
 
