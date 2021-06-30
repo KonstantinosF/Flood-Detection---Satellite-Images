@@ -98,7 +98,7 @@ Validation size
 Test size
 
 
-![Model Summary](/images/Images_2model_summary.png)
+![Model Summary](/images/model_summary.png)
 
 ### Evaluation
 
