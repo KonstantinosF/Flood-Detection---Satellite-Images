@@ -80,7 +80,7 @@ In order to be able to feed the dataset into our machine learning model we first
 After having clean the dataset we end up with <b>1947</b> images while the initial number of images-folders was <b>2237</b>.
 
 In order to count the number of files or subfolders use the next bash shell command: </br>
-<em><i> $ ls /etc | wc -l </em></i>
+<em><i> $ ls | wc -l </em></i>
 
 
 # Deap Learning Modelling
@@ -102,6 +102,7 @@ Test size
 ![Model Summary](/images/model_summary.png)
 
 ### Evaluation
+![Model Summary](/images/model_evaluation.png)
 
 
 ## Feature extraction with VGG ImageNet
@@ -109,6 +110,8 @@ VGG Net is the name of a pre-trained convolutional neural network (CNN) invented
 
 ### VGG Architecture
 ![VGG Net](/images/VGG_structure.jpeg)
+
+### Model Summary 
 
 ### Evaluation
 ![Model Summary](/images/VGG_evaluation_1.png)
@@ -125,6 +128,9 @@ VGG Net is the name of a pre-trained convolutional neural network (CNN) invented
   <li>Flood Detection in Time Series of Optical and SAR Images, C. Rambour,N. Audebert,E. Koeniguer,B. Le Saux,  and M. Datcu, ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2020, 1343--1346</li>
 
   <li>The Multimedia Satellite Task at MediaEval2019, Bischke, B., Helber, P., Schulze, C., Srinivasan, V., Dengel, A.,Borth, D., 2019, In Proc. of the MediaEval 2019 Workshop</li>
+
+  <li> Flood Mapping with Convolutional Neural Networks Using Spatio-Contextual Pixel Information, Chandrama Sarker 1, Luis Mejias, Frederic Maire and Alan Woodley, 8 October 2019, Remote Sensing</li>
+
 </ol>
 
 <b><i>Links:</b></i>
