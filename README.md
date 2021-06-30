@@ -77,7 +77,7 @@ The next image demonstrates the contents of one of this folders. As we can see t
 
 In order to be able to feed the dataset into our machine learning model we first need to clean it, transforme it and split it into training and testing datasets. As we found out many folders are empty (without spectral bands) while others are containing images whose pixels are zero. Additionaly, we need to stack the spectral bands and create a single image. In our expirement we used the bands 2, 3, 4 and 8 corespoding to blue, green, red and near infrared which share the same spatial resolution. Thus, the first step is to execute the python script named "Pre-Processing"
 
-After having clean the dataset we end up with 1947 images while the initial number of images-folders was 2237.
+After having clean the dataset we end up with <b>1947</b> images while the initial number of images-folders was <b>2237</b>.
 
 In order to count the number of files or subfolders use the next bash shell command
 <em><i> $ ls /etc | wc -l </em></i>
