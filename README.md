@@ -83,7 +83,7 @@ In order to count the number of files or subfolders use the next bash shell comm
 <em><i> $ ls | wc -l </em></i>
 
 
-# Deap Learning Modelling
+# Deep Learning Modelling
 ## Architecure 
 ![Model Summary](/images/CNN_model.png)
 
